@@ -3,6 +3,7 @@ const summary = {
   "repoName": "gutu-lib-ui",
   "packageId": "ui",
   "displayName": "UI",
+  "packageCount": 1,
   "group": "UI Foundation",
   "maturity": "Hardened",
   "description": "Canonical admin UI wrapper surface over shared shell primitives.",

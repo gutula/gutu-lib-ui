@@ -35,6 +35,7 @@ Provides shared UI primitives and conventions that higher-level component librar
 | Package ID | `ui` |
 | Display Name | UI |
 | Import Name | `@platform/ui` |
+| Canonical Namespace Target | `@gutu/ui` |
 | Version | `0.1.0` |
 | UI Surface | Mixed runtime helpers |
 | Consumption Model | Imports + typed UI primitives |
@@ -48,6 +49,7 @@ Provides shared UI primitives and conventions that higher-level component librar
 | Dev Dependencies | None |
 | React Runtime | Yes |
 | Workspace Scoped | Yes |
+| Legacy Compatibility IDs | `@platform/ui` |
 
 ### Dependency interpretation
 
